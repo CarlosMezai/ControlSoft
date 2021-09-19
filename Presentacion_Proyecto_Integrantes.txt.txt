@@ -4,7 +4,7 @@ Se propone analizar, diseñar y construir una aplicación software que permita c
 
 Presentación Integrantes:
 
-1. Santiago Marin Gallego:
+1. Santiago Marin Gallego: Ingeniero de Sistemas UTP; conocimiento basicos en programación y los aprendidos y profundizados con MinTic UDEA 
 
 2. Carlos Humberto Meza Infante: Ingeniero de Sistemas; conocimiento basicos en programación y los aprendidos y profundizados con MinTic UDEA html y css.
 
