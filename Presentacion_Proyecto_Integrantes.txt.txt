@@ -1,5 +1,5 @@
-Descripción proyecto:Se propone analizar, diseñar y construir una aplicación software que permita controlar 
-las ventas físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
+Descripción proyecto:
+Se propone analizar, diseñar y construir una aplicación software que permita controlar las ventas físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
 
 
 Presentación Integrantes:
@@ -8,6 +8,8 @@ Presentación Integrantes:
 
 2. Carlos Humberto Meza Infante: Ingeniero de Sistemas; conocimiento basicos en programación y los aprendidos y profundizados con MinTic UDEA html y css.
 
-3. Mileydi Aparicio : Ingeniera de Sistemas; QA Tester con conocimientos en Bases de datos
+3. Mileydi Aparicio : Ingeniera de Sistemas; QA Tester con conocimientos en Bases de datos.
+
+4. Angie Castro Gómez: Economista; tengo conocimientos básicos en programación y análisis de datos. Me gusta aprender :)
 
 
