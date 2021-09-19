@@ -8,3 +8,5 @@ Presentación Integrantes:
 
 2. Carlos Humberto Meza Infante: Ingeniero de Sistemas; conocimiento basicos en programación y los aprendidos y profundizados con MinTic UDEA.
 
+3. Mileydi Aparicio : Ingeniera de Sistemas; QA Tester con conocimientos en Bases de datos
+
